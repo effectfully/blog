@@ -1,7 +1,7 @@
 -- In this post I'll shortly introduce descriptions and describe a variant of them that I prefer.
 -- If you haven't seen this form of generic programming before,
 -- you might want to start with something simpler first:
--- http://effectfully.blogspot.ru/2016/02/simple-generic-programming.html
+-- http://effectfully.blogspot.com/2016/02/simple-generic-programming.html
 
 {-# OPTIONS --type-in-type --no-termination-check #-}
 
