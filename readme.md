@@ -5,3 +5,5 @@ Coloured versions:
 [Normalization by Evaluation](http://effectfully.blogspot.ru/2016/02/normalization-by-evaluation.html)
 
 [Generic universe polymorphic programming. Part two.](http://effectfully.blogspot.ru/2016/04/generic-universe-polymorphic.html)
+
+[Descriptions](http://effectfully.blogspot.ru/2016/04/descriptions.html)
