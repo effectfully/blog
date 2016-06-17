@@ -8,4 +8,4 @@ Coloured versions:
 
 [Descriptions](http://effectfully.blogspot.com/2016/04/descriptions.html)
 
-pDeriving eliminators of described data types](http://effectfully.blogspot.com/2016/06/deriving-eliminators-of-described-data.html)
+[Deriving eliminators of described data types](http://effectfully.blogspot.com/2016/06/deriving-eliminators-of-described-data.html)
