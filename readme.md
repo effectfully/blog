@@ -9,3 +9,5 @@ Coloured versions:
 [Descriptions](http://effectfully.blogspot.com/2016/04/descriptions.html)
 
 [Deriving eliminators of described data types](http://effectfully.blogspot.com/2016/06/deriving-eliminators-of-described-data.html)
+
+[Emulating cumulativity in Agda](http://effectfully.blogspot.com/2016/07/cumu.html)
