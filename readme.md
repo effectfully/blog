@@ -13,3 +13,5 @@ Coloured versions:
 [Emulating cumulativity in Agda](http://effectfully.blogspot.com/2016/07/cumu.html)
 
 [Unbiased ornaments](http://effectfully.blogspot.com/2016/07/unbiased-ornaments.html)
+
+[Insane Descriptions](http://effectfully.blogspot.com/2016/10/insane-descriptions.html)
