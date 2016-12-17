@@ -404,15 +404,15 @@ module InductiveInductive where
     UList′→UList : ∀ {α} {A : Set α} -> UList′ A -> UList A
     UList′→UList  []′       = []
     UList′→UList (ucons′ p) = ucons (Inn′→Inn p)
-    UList′→UList (node (suc (suc  zero))      (_ , ()))
-    UList′→UList (node (suc (suc (suc zero))) (_ , _ , _ , _ , _ , _ , ()))
+    UList′→UList (#₂ (_ , ()))
+    UList′→UList (#₃ (_ , _ , _ , _ , _ , _ , ()))
     UList′→UList  ⟨⟩₄
 
     Inn′→Inn : ∀ {α} {A : Set α} {x : A} {xs} -> x ∉′ xs -> x ∉ UList′→UList xs
     Inn′→Inn  stop′        = stop
     Inn′→Inn (keep′ c p q) = keep c (Inn′→Inn p) (Inn′→Inn q)
-    Inn′→Inn (node  zero       ())
-    Inn′→Inn (node (suc zero) (_ , _ , _ , ()))
+    Inn′→Inn (#₀ ())
+    Inn′→Inn (#₁ (_ , _ , _ , ()))
     Inn′→Inn  ⟨⟩₄
 
 module References where

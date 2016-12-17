@@ -225,7 +225,7 @@ data Orn {I J : Set} (e : J -> I) : Con -> Desc I -> Desc J -> Set where
 -- Note how the `abst` and `drop` constructors are beautifully symmetric,
 -- as well as the `inst` and `give` constructors.
 
--- `drop` essentially says "you can use the removed "x" as soon as the final result
+-- `drop` essentially says "you can use the removed "x" as long as the final result
 -- doesn't depend on it". And `give` receives an argument on which other types can depend.
 
 -- Here is a sanity check -- deriving from an ornament its algebra:
