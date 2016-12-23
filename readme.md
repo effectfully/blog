@@ -17,3 +17,5 @@ Coloured versions:
 [Insane Descriptions](http://effectfully.blogspot.com/2016/10/insane-descriptions.html)
 
 [Turing-completeness totally freer](http://effectfully.blogspot.com/2016/12/turing-completeness-totally-freer.html)
+
+[Higher effects](http://effectfully.blogspot.com/2016/12/higher-effects.html)

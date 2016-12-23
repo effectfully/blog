@@ -1,6 +1,7 @@
 {-# OPTIONS --type-in-type #-}
 
--- If this renders incorrectly, it's also available at 
+-- This post is also available at https://github.com/effectfully/blog/blob/master/HEff.agda
+-- in the case it renders incorrectly.
 -- This post is a sequel of the previous post [1]. There we've seen how simple algebraic effects
 -- can be modeled in a dependently typed language. This time we'll see how Idris-like
 -- resource-dependent effects [2] can be defined such that the non-termination and
